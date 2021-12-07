@@ -3,4 +3,4 @@
 
 #Mongo
 Editing Document: 61aeb976fbd3f63ba16eb165
-![image](https://user-images.githubusercontent.com/89586698/144955129-88deefc3-2f97-4e15-a030-56f0125559a3.png)
+![image](https://user-images.githubusercontent.com/89586698/144955333-05ba51db-abe4-4471-9b77-4bdac3d181ec.png)
